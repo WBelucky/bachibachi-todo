@@ -1,3 +1,11 @@
+# BachiBachi-TODO
+
+## References
+[dev in WSL2](https://qiita.com/samunohito/items/d167aed2552620e4dfae)
+[devaslife](https://www.youtube.com/watch?v=gxBis8EgoAg)
+
+
+
 # Vite Electron Builder Boilerplate
 
 [![GitHub issues by-label](https://img.shields.io/github/issues/cawa-93/vite-electron-builder/help%20wanted?label=issues%20need%20help&logo=github)](https://github.com/cawa-93/vite-electron-builder/issues?q=label%3A%22help+wanted%22+is%3Aopen+is%3Aissue)
