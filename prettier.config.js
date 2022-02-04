@@ -1,5 +1,5 @@
 const options = {
-  arrwParens: 'avoid',
+  arrowParens: 'avoid',
   singleQuote: true,
   bracketSpacing: true,
   endOfLine: 'lf',
